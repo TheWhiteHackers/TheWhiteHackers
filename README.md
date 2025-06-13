@@ -6,9 +6,9 @@ Hello! I'm `Efsan`; I'm a high school sophomore (as of June 2025). I'm intereste
 
 ## 📆 Upcoming
 ### 💡 Summer 2025 Goals
-- [ ] Take a Python class
-- [ ] Create a simple VR game
-- [ ] Make a project that incorporates AI
+- Take a Python class
+- Create a simple VR game
+- Make a project that incorporates AI
 ### 💡 Fall & Winter 2025 Goals
 - Ap Computer Science A
 - Another language class
