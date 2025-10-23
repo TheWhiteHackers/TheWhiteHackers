@@ -7,9 +7,9 @@ Hello! I'm `Efsan`; I'm a high school sophomore. I'm interested in VR game devel
 ## 🎯 In-Progress Goals
 - Learn Java
 - Learn Python (via Ap Comp Sci Principles)
+- Make another VR repository
 
 ## 🏆 Future Goals
 - Update all repositories
-- Make another VR repository
 - Actively learn cybersecurity 
 
