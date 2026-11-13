@@ -11,19 +11,20 @@ HTML, CSS, JS, Java, KiCAD, Python. Arunido IDE, and web development sites!
 
 ## 🏆 Thanksgiving Goals
 Deadlines
-- [Flavorless - Jul 2](https://flavorless.hackclub.com/)
 - [Minecraft Shader - Dec 31](https://hackcraft.hackclub.com/)
 - [Bashed - Feb 28](https://bashed.hackclub.com/)
   
 Timeless
 - [Fusering](https://fusering.hackclub.com/)
-- [Toppings](https://toppings.hackclub.com/)
+- [Toppings *started](https://toppings.hackclub.com/) 
 - [Bake Build](https://bakebuild.hackclub.com/)
 - [Boba Drops](https://boba.hackclub.com/index.html)
-- [Sprig](https://sprig.hackclub.com/)
+- [Sprig *started](https://sprig.hackclub.com/)
 - [Folktale](https://folktale.hackclub.com/)
 
-Passed Dates but Fun Proj
+Other Fun Projects
 - [Player Two - Passed](https://playertwo.hackclub.com/?ref=programs-page)
 - [Snek - Passed](https://snek.hackclub.com/)
 - [Chipper - Passed](https://chipper.hackclub.com/)
+- [Flavorless - Jul 2 (Clubs Only)](https://flavorless.hackclub.com/)
+
